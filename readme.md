@@ -27,7 +27,7 @@ Redux • Zustand • Jest • Tailwind CSS
 **Backend**  
 Node.js • Express.js  
 MongoDB • PostgreSQL • Supabase  
-Firebase (exploring)  
+Firebase  
 
 **Tools**  
 Git • GitHub • Docker • VS Code  
@@ -51,13 +51,7 @@ https://obayedullahkhan.netlify.app/
 
 ## Interests
 
-Web Development • Cybersecurity • AI & Automation • High-performance systems  
-
----
-
-## Contact
-
-ullahtarik300@gmail.com  
+Web Development • Cybersecurity • AI & Automation • High-performance systems • Mobile Applications
 
 ---
 
