@@ -3,7 +3,7 @@
   Full Stack Web Developer • MERN • Next.js • React Native
 </p>
 <p align="center">
-  Building scalable, high-performance web applications
+  Building scalable, high-performance web and mobile applications
 </p>
 
 ---
@@ -27,7 +27,7 @@ Redux • Zustand • Jest • Tailwind CSS
 **Backend**  
 Node.js • Express.js  
 MongoDB • PostgreSQL • Supabase  
-Firebase (exploring)  
+Firebase  
 
 **Tools**  
 Git • GitHub • Docker • VS Code  
@@ -45,13 +45,13 @@ Git • GitHub • Docker • VS Code
 
 ## Portfolio
 
-https://obayedullahkhan.netlify.app/ 
+https://obayedullahkhan.netlify.app/
 
 ---
 
-## Contact
+## Interests
 
-ullahtarik300@gmail.com  
+Web Development • Cybersecurity • AI & Automation • High-performance systems • Mobile Applications
 
 ---
 
