@@ -49,12 +49,6 @@ https://obayedullahkhan.netlify.app/
 
 ---
 
-## Interests
-
-Web Development • Cybersecurity • AI & Automation • High-performance systems • Mobile Applications
-
----
-
 ## Note
 
 I build products with scalability in mind — from idea to systems capable of handling real-world traffic.
