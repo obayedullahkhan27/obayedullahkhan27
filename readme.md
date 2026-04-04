@@ -45,13 +45,7 @@ Git • GitHub • Docker • VS Code
 
 ## Portfolio
 
-https://obayedullahkhan.netlify.app/
-
----
-
-## Interests
-
-Web Development • Cybersecurity • AI & Automation • High-performance systems  
+https://obayedullahkhan.netlify.app/ 
 
 ---
 
