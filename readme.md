@@ -3,7 +3,7 @@
   Full Stack Web Developer • MERN • Next.js • React Native
 </p>
 <p align="center">
-  Building scalable, high-performance web and mobile applications.
+  Building scalable, high-performance web and mobile applications...
 </p>
 
 ---
